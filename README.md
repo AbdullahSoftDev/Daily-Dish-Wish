@@ -1,6 +1,4 @@
-Absolutely — you mean **one single continuous code block** containing the entire `README.md`, so you can copy it once and paste it directly into GitHub.
 
-````
 <div align="center">
   <img
     src="YOUR_HEADER_IMAGE_URL"
