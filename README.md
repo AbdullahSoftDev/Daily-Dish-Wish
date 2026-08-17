@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="YOUR_HEADER_IMAGE_URL"
+    src="https://github.com/AbdullahSoftDev/Pictures/blob/7233f8dc12b27b8c6f77daa5a353f9349520d8fd/Daily%20Dish%20Wish.png"
     alt="Daily Dish Wish — Smart Cooking & Meal Planning Platform"
     width="100%"
   />
